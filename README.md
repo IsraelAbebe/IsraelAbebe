@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=IsraelAbebe&hide_border=true&theme=redical)
+
 <!--
 **IsraelAbebe/IsraelAbebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
