@@ -1,4 +1,4 @@
-#### Hi there 👋 checkout the [Projects](https://israelabebe.github.io/pages/projects/).
+#### Hi there 👋 checkout my [Projects](https://israelabebe.github.io/pages/projects/).
 
 <!--   GitHub stats graph -->
 <!-- ### 📈 GitHub Activity Graph: -->
