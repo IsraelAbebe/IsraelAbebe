@@ -1,5 +1,9 @@
 #### Hi there 👋 checkout my [Projects](https://israelabebe.github.io/pages/projects/).
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=IsraelAbebe&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
+<img align="right" src="https://komarev.com/ghpvc/?username=IsraelAbebe" alt="IsraelAbebe" />
+
+
 <!--   GitHub stats graph -->
 <!-- ### 📈 GitHub Activity Graph: -->
 <!-- ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=IsraelAbebe&hide_border=true&theme=redical) -->
